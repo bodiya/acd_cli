@@ -1,4 +1,4 @@
-#!/home/brian/aws/py34/bin/python3
+#!/usr/bin/env python3
 import sys
 import os
 import json
